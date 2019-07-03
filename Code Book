@@ -1,0 +1,88 @@
+This code book summarizes the resulting data in tidydata.txt.
+
+Identifiers:
+subjects: ID of the test subject
+activitylabels: 6 types of activity performed when measurements were taken, including WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING AND LAYING.
+
+Measurements:
+There are 79 measurements in the dataset.
+
+timeBodyAccelerometerMeanX: mean of time domain body signals from the accelerometer X-axial raw signals
+timeBodyAccelerometerMeanY: mean of time domain body signals from the accelerometer Y-axial raw signals
+timeBodyAccelerometerMeanZ: mean of time domain body signals from the accelerometer Z-axial raw signals
+timeBodyAccelerometerSTDX: standard deviation of time domain body signals from the accelerometer X-axial raw signals
+timeBodyAccelerometerSTDY: standard deviation of time domain body signals from the accelerometer Y-axial raw signals
+timeBodyAccelerometerSTDZ: standard deviation of time domain body signals from the accelerometer Z-axial raw signals
+timeGravityAccelerometerMeanX: mean of time domain gravity signals from the accelerometer X-axial raw signals
+timeGravityAccelerometerMeanY: mean of time domain gravity signals from the accelerometer Y-axial raw signals
+timeGravityAccelerometerMeanZ: mean of time domain gravity signals from the accelerometer Z-axial raw signals
+timeGravityAccelerometerSTDX: standard deviation of time domain gravity signals from the accelerometer X-axial raw signals
+timeGravityAccelerometerSTDY: standard deviation of time domain gravity signals from the accelerometer Y-axial raw signals
+timeGravityAccelerometerSTDZ: standard deviation of time domain gravity signals from the accelerometer Z-axial raw signals
+timeBodyAccelerometerJerkMeanX: mean of time domain body Jerk signals from the accelerometer X-axial raw signals
+timeBodyAccelerometerJerkMeanY: mean of time domain body Jerk signals from the accelerometer Y-axial raw signals
+timeBodyAccelerometerJerkMeanZ: mean of time domain body Jerk signals from the accelerometer Z-axial raw signals
+timeBodyAccelerometerJerkSTDX: standard deviation of time domain body Jerk signals from the accelerometer X-axial raw signals
+timeBodyAccelerometerJerkSTDY: standard deviation of time domain body Jerk signals from the accelerometer Y-axial raw signals
+timeBodyAccelerometerJerkSTDZ: standard deviation of time domain body Jerk signals from the accelerometer Z-axial raw signals
+timeBodyGyroscopeMeanX: mean of time domain body signals from the gyroscope X-axial raw signals
+timeBodyGyroscopeMeanY: mean of time domain body signals from the gyroscope Y-axial raw signals
+timeBodyGyroscopeMeanZ: mean of time domain body signals from the gyroscope Z-axial raw signals
+timeBodyGyroscopeSTDX: standard deviation of time domain body signals from the gyroscope X-axial raw signals
+timeBodyGyroscopeSTDY: standard deviation of time domain body signals from the gyroscope Y-axial raw signals
+timeBodyGyroscopeSTDZ: standard deviation of time domain body signals from the gyroscope Z-axial raw signals
+timeBodyGyroscopeJerkMeanX: mean of time domain body Jerk signals from the gyroscope X-axial raw signals
+timeBodyGyroscopeJerkMeanY: mean of time domain body Jerk signals from the gyroscope Y-axial raw signals
+timeBodyGyroscopeJerkMeanZ: mean of time domain body Jerk signals from the gyroscope Z-axial raw signals
+timeBodyGyroscopeJerkSTDX: standard deviation of time domain body Jerk signals from the gyroscope X-axial raw signals
+timeBodyGyroscopeJerkSTDY: standard deviation of time domain body Jerk signals from the gyroscope Y-axial raw signals
+timeBodyGyroscopeJerkSTDZ: standard deviation of time domain body Jerk signals from the gyroscope Z-axial raw signals
+timeBodyAccelerometerMagnitudeMean: mean of magnitude of time domain body signals from the accelerometer
+timeBodyAccelerometerMagnitudeSTD: standard deviation of magnitude of time domain body signals from the accelerometer
+timeGravityAccelerometerMagnitudeMean: mean of magnitude of time domain gravity signals from the accelerometer
+timeGravityAccelerometerMagnitudeSTD: standard deviation of magnitude of time domain gravity signals from the accelerometer
+timeBodyAccelerometerJerkMagnitudeMean: mean of magnitude of time domain body Jerk signals from the accelerometer
+timeBodyAccelerometerJerkMagnitudeSTD: standard deviation of magnitude of time domain body Jerk signals from the accelerometer
+timeBodyGyroscopeMagnitudeMean: mean of magnitude of time domain body signals from the gyroscope
+timeBodyGyroscopeMagnitudeSTD: standard deviation of magnitude of time domain body signals from the gyroscope
+timeBodyGyroscopeJerkMagnitudeMean: mean of magnitude of time domain body signals from the accelerometer
+timeBodyGyroscopeJerkMagnitudeSTD: standard deviation of magnitude of time domain body signals from the gyroscope
+frequencyBodyAccelerometerMeanX: mean of frequency domain body signals from the accelerometer X-axial raw signals
+frequencyBodyAccelerometerMeanY: mean of frequency domain body signals from the accelerometer Y-axial raw signals
+frequencyBodyAccelerometerMeanZ: mean of frequency domain body signals from the accelerometer Z-axial raw signals
+frequencyBodyAccelerometerSTDX: standard deviation of frequency domain body signals from the accelerometer X-axial raw signals
+frequencyBodyAccelerometerSTDY: standard deviation of frequency domain body signals from the accelerometer Y-axial raw signals
+frequencyBodyAccelerometerSTDZ: standard deviation of frequency domain body signals from the accelerometer Z-axial raw signals
+frequencyBodyAccelerometerMeanFreqX: mean frequency of frequency domain body signals from the accelerometer X-axial raw signals
+frequencyBodyAccelerometerMeanFreqY: mean frequency of frequency domain body signals from the accelerometer Y-axial raw signals
+frequencyBodyAccelerometerMeanFreqZ: mean frequency of frequency domain body signals from the accelerometer Z-axial raw signals
+frequencyBodyAccelerometerJerkMeanX: mean of frequency domain body Jerk signals from the accelerometer X-axial raw signals
+frequencyBodyAccelerometerJerkMeanY: mean of frequency domain body Jerk signals from the accelerometer Y-axial raw signals
+frequencyBodyAccelerometerJerkMeanZ: mean of frequency domain body Jerk signals from the accelerometer Z-axial raw signals
+frequencyBodyAccelerometerJerkSTDX: standard deviation of frequency domain body Jerk signals from the accelerometer X-axial raw signals
+frequencyBodyAccelerometerJerkSTDY: standard deviation of frequency domain body Jerk signals from the accelerometer Y-axial raw signals
+frequencyBodyAccelerometerJerkSTDZ: standard deviation of frequency domain body Jerk signals from the accelerometer Z-axial raw signals
+frequencyBodyAccelerometerJerkMeanFreqX: mean frequency of frequency domain body Jerk signals from the accelerometer X-axial raw signals
+frequencyBodyAccelerometerJerkMeanFreqY: mean frequency of frequency domain body Jerk signals from the accelerometer Y-axial raw signals
+frequencyBodyAccelerometerJerkMeanFreqZ: mean frequency of frequency domain body Jerk signals from the accelerometer Z-axial raw signals
+frequencyBodyGyroscopeMeanX: mean of frequency domain body signals from the gyroscope X-axial raw signals
+frequencyBodyGyroscopeMeanY: mean of frequency domain body signals from the gyroscope Y-axial raw signals
+frequencyBodyGyroscopeMeanZ: mean of frequency domain body signals from the gyroscope Z-axial raw signals
+frequencyBodyGyroscopeSTDX: standard deviation of frequency domain body signals from the gyroscope X-axial raw signals
+frequencyBodyGyroscopeSTDY: standard deviation of frequency domain body signals from the gyroscope Y-axial raw signals
+frequencyBodyGyroscopeSTDZ: standard deviation of frequency domain body signals from the gyroscope Z-axial raw signals
+frequencyBodyGyroscopeMeanFreqX: mean frequency of frequency domain body signals from the gyroscope X-axial raw signals
+frequencyBodyGyroscopeMeanFreqY: mean frequency of frequency domain body signals from the gyroscope Y-axial raw signals
+frequencyBodyGyroscopeMeanFreqZ: mean frequency of frequency domain body signals from the gyroscope Z-axial raw signals
+frequencyBodyAccelerometerMagnitudeMean: mean of magnitude of frequency domain body signals from the accelerometer
+frequencyBodyAccelerometerMagnitudeSTD: standard deviation of magnitude of frequency domain body signals from the accelerometer
+frequencyBodyAccelerometerMagnitudeMeanFreq: mean frequency of magnitude of frequency domain body signals from the accelerometer
+frequencyBodyAccelerometerJerkMagnitudeMean: mean of magnitude of frequency domain body Jerk signals from the accelerometer
+frequencyBodyAccelerometerJerkMagnitudeSTD: standard deviation of magnitude of frequency domain body Jerk signals from the accelerometer
+frequencyBodyAccelerometerJerkMagnitudeMeanFreq: mean frequency of magnitude of frequency domain body Jerk signals from the accelerometer
+frequencyBodyGyroscopeMagnitudeMean: mean of magnitude of frequency domain body signals from the gyroscope
+frequencyBodyGyroscopeMagnitudeSTD: standard deviation of magnitude of frequency domain body signals from the gyroscope
+frequencyBodyGyroscopeMagnitudeMeanFreq: mean frequency of magnitude of frequency domain body signals from the gyroscope
+frequencyBodyGyroscopeJerkMagnitudeMean: mean of magnitude of frequency domain body Jerk signals from the gyroscope
+frequencyBodyGyroscopeJerkMagnitudeSTD: standard deviation of magnitude of frequency domain body Jerk signals from the gyroscope
+frequencyBodyGyroscopeJerkMagnitudeMeanFreq: mean frequency of magnitude of frequency domain body Jerk signals from the gyroscope
